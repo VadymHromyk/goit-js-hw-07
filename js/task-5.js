@@ -4,7 +4,7 @@ function getRandomHexColor() {
     .padStart(6, 0)}`;
 }
 
-const body = document.querySelector(".task-five");
+const body = document.querySelector("body");
 const btn = document.querySelector(".change-color");
 const span = document.querySelector(".color");
 
